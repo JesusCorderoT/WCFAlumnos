@@ -1,0 +1,17 @@
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.dll.config
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Datos.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Entidades.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Negocio.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Newtonsoft.Json.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Datos.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Entidades.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Negocio.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Negocio.dll.config
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\bin\Newtonsoft.Json.xml
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.CopyComplete
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.pdb
